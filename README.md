@@ -1,3 +1,3 @@
 # PC
 Hello World
-A beginner in the programming word, focusing on machine-learning
+A beginner in the programming world, focusing on machine-learning
